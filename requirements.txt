@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+## automatcall trigger setup.py file
